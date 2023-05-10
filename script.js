@@ -47,4 +47,4 @@ function divInGray() {
     }
     divMole.addEventListener("click", clickMole, { once: true });
 }
-let timerId = setInterval(divInGray, 600);
+let timerId = setInterval(divInGray, 500);
